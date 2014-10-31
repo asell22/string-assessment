@@ -1,3 +1,8 @@
 saying = "The quick brown fox jumps over the lazy dog."
 
 puts saying.gsub!("e", "3") && saying.upcase
+
+# It looks like there were some git issues here
+# There are two files and only one of them has a .rb file extension
+# This one is kind of weird without it.
+# Also, Erika did this && thing too. Not getting it. What are you guys trying to do?
